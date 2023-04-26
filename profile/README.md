@@ -6,7 +6,7 @@
 | EAMENA       | http://eamena.arch.ox.ac.uk/      | https://github.com/achp-project/prj-eamena-marea | @zoometh                |
 | MaESAM       | https://maeasam.org/              |                                                  | @razekmh, @manojlokare  |
 | MAHSA        | https://www.mahsa.arch.cam.ac.uk/ |                                                  | @junaidjabbar01         |
-| MAPHSA       | https://www.upf.edu/web/maphsa    |                                                  | @jgregoriods            |
+| MAPHSA       | https://www.upf.edu/web/maphsa    |                                                  | @jgregoriods, @atapscott|
 | MAPSS        | https://mapss.shh.mpg.de/info/    | https://github.com/achp-project/prj-mapss        | @michaeltfisher         |
 | MaREA        | https://marea.soton.ac.uk/        | https://github.com/achp-project/prj-eamena-marea | @ads04r                 |
 

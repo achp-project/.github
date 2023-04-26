@@ -1,5 +1,9 @@
 # Projects
 
+Global South Arches-based projects
+
+## List
+
 | project name | project url                       | GitHub repository                                | GitHub member names     |
 |--------------|-----------------------------------|--------------------------------------------------|-------------------------|
 | CAAL         | https://uclcaal.org/              | https://github.com/achp-project/prj-caal         | @mnebbia, @BAPAlveyCHIC |
@@ -10,3 +14,6 @@
 | MAPSS        | https://mapss.shh.mpg.de/info/    | https://github.com/achp-project/prj-mapss        | @michaeltfisher         |
 | MaREA        | https://marea.soton.ac.uk/        | https://github.com/achp-project/prj-eamena-marea | @ads04r                 |
 
+## Map
+
+Global South Arches-based projects are (roughly) mapped here: https://achp-project.github.io/cultural-heritage/map-projects/arches-global-south.html. This leafletmap was created from this R function: https://github.com/achp-project/cultural-heritage/blob/main/map-projects/prj_map.R

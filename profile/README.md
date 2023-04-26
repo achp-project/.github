@@ -16,4 +16,4 @@ Global South Arches-based projects
 
 ## Map
 
-Global South Arches-based projects are (roughly) mapped here: https://achp-project.github.io/cultural-heritage/map-projects/arches-global-south.html. This leafletmap was created from this R function: https://github.com/achp-project/cultural-heritage/blob/main/map-projects/prj_map.R
+Global South Arches-based projects are (roughly) mapped here: https://achp-project.github.io/cultural-heritage/map-projects/arches-global-south.html. This leafletmap was created using this R function: https://github.com/achp-project/cultural-heritage/blob/main/map-projects/prj_map.R

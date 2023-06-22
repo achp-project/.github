@@ -13,3 +13,4 @@ Global South Arches-based projects
 | MAPHSA       | https://www.upf.edu/web/maphsa    |                                                  | @jgregoriods, @atapscott|
 | MAPSS        | https://mapss.shh.mpg.de/info/    | https://github.com/achp-project/prj-mapss        | @michaeltfisher         |
 | MaREA        | https://marea.soton.ac.uk/        | https://github.com/achp-project/prj-eamena-marea | @ads04r                 |
+| MAHS         | https://maritimeasiaheritage.cseas.kyoto-u.ac.jp/  |  https://github.com/achp-project/prj-mahs| @MaritimeAsiaHeritageSurvey |

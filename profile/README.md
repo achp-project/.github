@@ -10,7 +10,7 @@ Global South Arches-based projects with a common repository:
 |--------------|--------------------------------------------------|-------------------------------- |---------------------------------------------------|
 | CAAL         | https://github.com/achp-project/prj-caal         | @mnebbia, @BAPAlveyCHIC,@razekmh| https://uclcaal.org/                              |
 | EAMENA       | https://github.com/achp-project/prj-eamena-marea | @zoometh, @yourvick             | http://eamena.arch.ox.ac.uk/                      |
-| MaESAM       | https://github.com/MAEASaM/prj-MAEASaM           | @razekmh, @manojlokare          | https://maeasam.org/                              |
+| MaESAM       | https://github.com/achp-project/project_MAEASaM  | @razekmh, @manojlokare          | https://maeasam.org/                              |
 | MAHS         | https://github.com/achp-project/prj-mahs         | @MaritimeAsiaHeritageSurvey     | https://maritimeasiaheritage.cseas.kyoto-u.ac.jp/ |
 | MAHSA        | https://github.com/achp-project/prj-mahsa        | @junaidjabbar01                 | https://www.mahsa.arch.cam.ac.uk/                 |
 | MAPHSA       |                                                  | @jgregoriods, @atapscott        | https://www.upf.edu/web/maphsa                    |

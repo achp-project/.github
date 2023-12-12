@@ -16,3 +16,8 @@ Global South Arches-based projects with a common repository:
 | MAPHSA       | https://github.com/achp-project/prj-maphsa       | @jgregoriods, @atapscott        | https://www.upf.edu/web/maphsa                    |
 | MAPSS        | https://github.com/achp-project/prj-mapss        | @michaeltfisher                 | https://mapss.shh.mpg.de/info/                    |
 | MaREA        | https://github.com/achp-project/prj-eamena-marea | @ads04r                         | https://marea.soton.ac.uk/                        |
+
+# News
+
+* A [presentation](https://colab.research.google.com/github/achp-project/cultural-heritage/blob/main/presentation/bhdc/rm_compar.ipynb) at the *Big Historical Data Conference* - Environments of big cultural heritage data integration
+22-25 Nov 2023, Jena, Germany, Max Planck Institute of Geoanthropology, https://bhdc.earth/ 
